@@ -2,8 +2,6 @@
 
 [![C](https://img.shields.io/badge/C-Language-A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-111學年度第1學期 [MA109A]「計算機概論」 - 40434「多項式加法」
-
 ## 題目描述
 
 假設二元多次多項式 **f(x,y)** 是由兩個未知數 *x* 和 *y* 形成的函數，例如：
@@ -94,14 +92,6 @@ f(x,y)= -2.2 + 4.7x<sup>0</sup>y<sup>3</sup> - 1.1x<sup>4</sup>y<sup>2</sup>
 0 1 4 4
 4 1 1 2
 ```
-
-## 技術資訊
-
-| 項目 | 說明 |
-|------|------|
-| **語言** | C |
-| **課程** | 計算機概論 (MA109A) |
-| **學期** | 111學年度第1學期 |
 
 ## 專案結構
 
